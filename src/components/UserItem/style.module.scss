@@ -1,0 +1,11 @@
+.icon{
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    transition: .3s;
+    border: none;
+    
+    &:hover{
+        transform: scale(1.5);
+    }
+}
